@@ -1,4 +1,12 @@
+// Write a Java program to create an Employee class with:
 
+// Instance variables: empId, name, salary
+// Constructors:
+// Default constructor – initializes employee details to default values
+// Parameterized constructor – initializes employee details using given values
+// Constructor chaining: Use this() in the default constructor to call the parameterized constructor
+// Display method: Prints employee details
+// Test: Create objects using both constructors and display details.
 class Emp {
 
     int empId;
