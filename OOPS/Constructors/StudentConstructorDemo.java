@@ -1,4 +1,14 @@
+// Write a Java program to create a Student class with:
 
+// Roll number
+// Name
+// Course
+// Implement:
+// A default constructor that assigns default values
+// A parameterized constructor
+// A copy constructor
+// Create objects using all three constructors and print student details.
+// Write a program where a Student object is copied into another object using a copy constructor. Modify one object and show that the other remains unchanged.
 class StudentInfo {
 
     int roll;
